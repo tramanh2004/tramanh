@@ -1,0 +1,9 @@
+a=int(input('a='))
+b=int(input('b='))
+if(a!=0):
+    print(-b/a)
+else:
+    if(b==0):
+        print('vo so nghiem')
+    else:
+        print('vo nghiem')
